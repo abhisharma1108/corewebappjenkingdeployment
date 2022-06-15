@@ -37,3 +37,4 @@ C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkingdeplo
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkingdeployment\obj\Debug\net5.0\corewebappjenkingdeployment.pdb
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkingdeployment\obj\Debug\net5.0\corewebappjenkingdeployment.genruntimeconfig.cache
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkingdeployment\obj\Debug\net5.0\corewebappjenkingdeployment.csproj.CopyComplete
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkingdeployment\obj\Debug\net5.0\corewebappjenkingdeployment.csprojAssemblyReference.cache
